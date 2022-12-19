@@ -6,5 +6,5 @@
   </core-input>
 </template>
 <script setup lang="ts">
-import CoreInput from './CoreInput.vue'
+import CoreInput from '@/components/CoreInput.vue'
 </script>

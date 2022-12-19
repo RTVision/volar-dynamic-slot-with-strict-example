@@ -1,3 +1,6 @@
-# volar-passthrough-slots-example
+# volar-passthrough-slots-example Steps
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vue3-vite-starter-8uekt1)
+1. install packages with your preferred manager
+2. Open up src/App.vue
+3. See error on the slot before/after not in {} error
+
