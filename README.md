@@ -1,4 +1,4 @@
-# volardynamic-slot
+# volar-dynamic-slot
 
 1. install packages with your preferred manager
 2. Open up src/components/CoreInputWrapper.vue
