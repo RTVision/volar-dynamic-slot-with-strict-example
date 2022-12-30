@@ -5,3 +5,4 @@
     <slot name="after" />
   </div>
 </template>
+<script setup lang="ts"></script>
