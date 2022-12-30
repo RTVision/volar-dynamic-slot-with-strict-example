@@ -6,6 +6,7 @@
     "module": "EsNext",
     "target": "ESNext",
     "sourceMap": true,
+    "strict": true,
     "moduleResolution": "NodeNext",
     "forceConsistentCasingInFileNames": true,
     "resolveJsonModule": true,
